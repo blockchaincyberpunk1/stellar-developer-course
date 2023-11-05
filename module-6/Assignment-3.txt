@@ -1,0 +1,45 @@
+Automated Testing
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students about automated testing in the context of Stellar development. Students will be tasked with creating a suite of automated tests for Stellar applications they've previously developed (e.g., cross-border payment solution or tokenization use case). The goal is to ensure the functionality and security of their applications by writing unit tests and integration tests. Students should also provide a testing report with coverage metrics.
+
+Instructions:
+
+Assignment Task:
+
+Create a Suite of Automated Tests for Your Stellar Application
+
+Your task is to develop a comprehensive suite of automated tests for the Stellar applications you've previously developed in this course. The focus should be on ensuring the functionality and security of your applications. Follow these steps:
+
+Test Types (20 points):
+
+Identify the types of tests needed for your Stellar application. Consider unit tests to test individual functions and components, as well as integration tests to verify the interactions between various parts of your application.
+Test Coverage (20 points):
+
+Aim for high test coverage by writing tests that cover critical functionality, edge cases, and security-sensitive areas of your application.
+Include unit tests for individual functions or components and integration tests to validate the application's behavior as a whole.
+Test Implementation (40 points):
+
+Write automated test cases based on your identified test types and coverage goals.
+Test your Stellar application's functionality, including features like transaction processing, account management, and any custom functionality you've implemented.
+Security Testing (20 points):
+
+Include security-focused tests to check for vulnerabilities such as transaction tampering or unauthorized access.
+Test your application's ability to handle unexpected inputs or scenarios securely.
+Testing Report (10 points):
+
+Create a testing report that summarizes your testing efforts.
+Include coverage metrics to indicate the percentage of your codebase covered by tests.
+Describe any issues or bugs you encountered during testing and how you addressed them.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the automated test code and testing report.
+Ensure that your tests are well-organized and clearly labeled to facilitate evaluation.
+Grading Rubric:
+
+Test Types (20 points)
+Test Coverage (20 points)
+Test Implementation (40 points)
+Security Testing (20 points)
+Testing Report (10 points)

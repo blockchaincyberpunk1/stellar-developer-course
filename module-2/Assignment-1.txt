@@ -1,0 +1,43 @@
+Stellar Components Research
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to familiarize students with the key components of the Stellar network and their roles in its architecture.
+
+Instructions for Students:
+
+Assignment Task:
+
+Stellar Components Research
+
+In this assignment, you will explore the fundamental components that make up the Stellar network. Understanding the roles and interactions of these components is essential for anyone developing on the Stellar platform.
+
+Assignment Requirements:
+
+Component Selection (20 points):
+
+Review the provided list of key Stellar components, which may include Stellar Core, Horizon, Stellar Development Foundation (SDF), validators, and more.
+Select a subset of these components (at least three) to research.
+Research and Description (40 points):
+
+For each selected component, conduct thorough research to understand its role, function, and significance within the Stellar network.
+Provide a detailed description of each component, including its primary responsibilities and how it contributes to the Stellar ecosystem.
+Interaction Diagram (30 points):
+
+Create a visual representation or diagram that illustrates how the selected components interact with each other within the Stellar network.
+Use arrows, labels, and a clear structure to demonstrate the flow of data and transactions between these components.
+Presentation or Report (10 points):
+
+Prepare a brief presentation or report summarizing your research and the interaction diagram you created.
+Ensure that your explanation is clear, concise, and informative.
+Submission Guidelines:
+
+For presentations, submit your slides in a digital format (e.g., PowerPoint, PDF) through the course platform.
+For reports, submit your document in a digital format (e.g., PDF, Word document) through the course platform.
+Include your visual diagram in your presentation/report.
+Grading Rubric:
+
+Component Selection (20 points)
+Research and Description (40 points)
+Interaction Diagram (30 points)
+Presentation or Report (10 points)

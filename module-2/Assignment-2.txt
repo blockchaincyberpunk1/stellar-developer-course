@@ -1,0 +1,46 @@
+Setting Up Stellar Core
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to set up a Stellar Core node, gaining hands-on experience with Stellar's core infrastructure.
+
+Instructions for Students:
+
+Assignment Task:
+
+Setting Up Stellar Core
+
+In this assignment, you will have the opportunity to set up your own Stellar Core node. This hands-on experience will give you valuable insights into the inner workings of the Stellar network.
+
+Assignment Requirements:
+
+Environment Selection (20 points):
+
+Choose whether you want to set up your Stellar Core node on your local development environment or connect to the Stellar testnet.
+Justify your choice by briefly explaining the benefits and challenges of your selected environment.
+Node Setup (40 points):
+
+Follow a step-by-step guide or tutorial to set up a Stellar Core node on your chosen environment.
+Document the installation process, including any configuration settings you choose.
+Connection to Testnet (30 points):
+
+If you opt for setting up a testnet node, ensure that you successfully connect your node to the Stellar testnet.
+Document the steps you took to establish this connection.
+Challenges and Solutions (10 points):
+
+Describe any challenges you encountered during the setup process and provide solutions or workarounds you applied.
+Reflection (10 points):
+
+Reflect on the experience of setting up your Stellar Core node.
+Discuss what you've learned and how this knowledge can benefit your future projects or development on Stellar.
+Submission Guidelines:
+
+Submit a document (e.g., PDF) that includes your environment choice, documentation of the node setup process, details about the testnet connection (if applicable), challenges faced, and your reflection.
+Include any configuration files or scripts used during the setup.
+Grading Rubric:
+
+Environment Selection (20 points)
+Node Setup (40 points)
+Connection to Testnet (30 points)
+Challenges and Solutions (10 points)
+Reflection (10 points)

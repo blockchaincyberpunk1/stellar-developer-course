@@ -1,0 +1,42 @@
+Stellar Network Features Analysis
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to deepen students' understanding of the Stellar network's unique features. By researching and analyzing these features, students will gain insights into what sets Stellar apart from other blockchain platforms.
+
+Instructions for Students:
+
+Assignment Task:
+
+Stellar Network Features Analysis
+
+In this assignment, you will delve into the unique features of the Stellar network. Stellar has distinctive characteristics that set it apart from other blockchain platforms. Understanding these features is crucial for becoming a proficient Stellar developer.
+
+Assignment Requirements:
+
+Research and Analysis (70 points):
+
+Research and compile a list of Stellar's unique features, which may include but are not limited to:
+Stellar Consensus Protocol (SCP)
+Anchor institutions
+Role in cross-border payments
+Token creation and issuance
+For each feature, provide a detailed explanation of what it is and how it functions within the Stellar network.
+Analyze how these features distinguish Stellar from other blockchain platforms or traditional financial systems.
+Clarity and Structure (20 points):
+
+Ensure that your analysis is well-structured and organized.
+Use clear and concise language to explain complex concepts.
+Maintain a logical flow of ideas throughout your analysis.
+Originality (10 points):
+
+Ensure that your analysis reflects your own understanding of Stellar's features.
+Avoid plagiarism by citing sources if you use external references.
+Submission Guidelines:
+
+Submit your analysis in a digital format (e.g., PDF, Word document) through the course platform.
+Grading Rubric:
+
+Research and Analysis (70 points)
+Clarity and Structure (20 points)
+Originality (10 points)

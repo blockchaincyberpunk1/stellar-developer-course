@@ -1,0 +1,98 @@
+Fundamental Operations on the Stellar Network: A Beginner's Guide
+
+As a beginner Stellar developer, understanding the fundamental operations of the Stellar network is essential for building and interacting with decentralized applications (dApps) on this innovative blockchain platform. Stellar offers a wide range of functionalities, from sending payments to querying balances, all of which are crucial for creating a seamless and user-friendly experience within your applications. In this article, we'll provide you with a comprehensive walkthrough of some of the basic operations on the Stellar network, enabling you to kick-start your journey into Stellar development.
+
+Sending Payments
+
+Sending payments on the Stellar network is a foundational operation that facilitates the transfer of assets between accounts. In Stellar, assets can represent various tokens, such as cryptocurrencies, fiat currencies, or even custom tokens issued on the network.
+
+Here's a step-by-step guide on how to send payments using the Stellar JavaScript SDK:
+
+Load Stellar SDK and Configure Server:
+
+First, load the Stellar SDK and configure the server connection:
+
+javascript
+Copy code
+const StellarSdk = require('stellar-sdk');
+const server = new StellarSdk.Server('https://horizon-testnet.stellar.org');
+Create Transaction:
+
+To send a payment, you need to create a transaction. Here's an example:
+
+javascript
+Copy code
+const senderKeyPair = StellarSdk.Keypair.fromSecret('Sender-Secret-Key');
+const senderPublicKey = senderKeyPair.publicKey();
+const receiverPublicKey = 'Receiver-Public-Key';
+const asset = new StellarSdk.Asset.native();
+const amount = '10'; // Amount of XLM to send
+
+const transaction = new StellarSdk.TransactionBuilder(senderPublicKey)
+  .addOperation(StellarSdk.Operation.payment({
+    destination: receiverPublicKey,
+    asset: asset,
+    amount: amount
+  }))
+  .build();
+Sign and Submit Transaction:
+
+Sign the transaction with the sender's secret key and submit it to the network:
+
+javascript
+Copy code
+transaction.sign(senderKeyPair);
+server.submitTransaction(transaction)
+  .then(result => {
+    console.log('Payment successful!', result);
+  })
+  .catch(error => {
+    console.error('Payment failed:', error);
+  });
+Querying Balances
+
+Querying balances allows you to retrieve the asset balances associated with a specific account. Whether you want to display a user's account balance in your dApp or perform certain actions based on available funds, querying balances is a crucial operation.
+
+Here's how you can query balances using the Stellar JavaScript SDK:
+
+Load Stellar SDK and Configure Server:
+
+Similar to sending payments, start by loading the Stellar SDK and configuring the server connection.
+
+Query Balances:
+
+Use the server object to load an account and retrieve its balances:
+
+javascript
+Copy code
+const publicKey = 'Public-Key';
+server.loadAccount(publicKey)
+  .then(account => {
+    console.log('Balances for account:', publicKey);
+    account.balances.forEach(balance => {
+      console.log(`${balance.asset_code}: ${balance.balance}`);
+    });
+  })
+  .catch(error => {
+    console.error('Error loading account:', error);
+  });
+Creating Trustlines
+
+In Stellar, trustlines are essential for holding and interacting with assets issued by other accounts. Before you can send or receive a specific asset, you need to establish a trustline with the issuing account.
+
+Creating a trustline involves adding a Trustline operation to your transaction:
+
+javascript
+Copy code
+const senderKeyPair = StellarSdk.Keypair.fromSecret('Sender-Secret-Key');
+const assetCode = 'USD'; // Asset code of the asset you want to hold
+const issuerPublicKey = 'Issuer-Public-Key';
+
+const transaction = new StellarSdk.TransactionBuilder(senderKeyPair.publicKey())
+  .addOperation(StellarSdk.Operation.changeTrust({
+    asset: new StellarSdk.Asset(assetCode, issuerPublicKey)
+  }))
+  .build();
+Conclusion
+
+As a beginner Stellar developer, mastering the fundamental operations of the Stellar network is your gateway to building powerful and user-centric decentralized applications. Sending payments, querying balances, and creating trustlines are just a few examples of the operations that form the building blocks of your development journey. With the provided step-by-step guides and examples using the Stellar JavaScript SDK, you're well-equipped to dive into Stellar development and create applications that harness the potential of blockchain technology to revolutionize financial transactions, asset issuance, and more. By mastering these foundational operations, you're on your way to creating a seamless and engaging experience for users on the Stellar network.

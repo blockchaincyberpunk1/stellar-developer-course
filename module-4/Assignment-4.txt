@@ -1,0 +1,51 @@
+Token Issuance and Distribution
+
+Course: Stellar Developer Course
+
+Assignment Objective: This assignment aims to give students hands-on experience in the process of token issuance and distribution on the Stellar network. Students will create a custom token, issue tokens to a distribution account, and then distribute these tokens to multiple user accounts, simulating a real-world scenario.
+
+Instructions for Students:
+
+Assignment Task:
+
+Token Issuance and Distribution Simulation
+
+In this assignment, you will simulate a real-world scenario where you need to issue and distribute custom tokens to users. This will help you understand the practical aspects of token issuance and distribution on the Stellar network.
+
+Assignment Requirements:
+
+Token Creation (20 points):
+
+Create a custom token on the Stellar testnet with a specified name, symbol (e.g., XYZ), and total supply (e.g., 1,000,000 tokens).
+Ensure that the token creation process adheres to Stellar's standards.
+Document the steps and code used for token creation.
+Token Issuance (20 points):
+
+Issue a specific number of tokens from the newly created token supply to a distribution account.
+Verify that the tokens are correctly issued to the distribution account.
+Document the issuance process and any challenges faced.
+User Accounts (20 points):
+
+Create multiple user accounts on the Stellar testnet. You can simulate user accounts for this assignment.
+Document the account creation process.
+Token Distribution (30 points):
+
+Develop a secure and transparent token distribution process from the distribution account to the user accounts.
+Ensure that tokens are distributed accurately to the user accounts.
+Document the token distribution process, including any transaction details.
+Documentation and Instructions (10 points):
+
+Provide clear and concise documentation for the entire token issuance and distribution process.
+Include instructions for setting up and running the simulation.
+Offer examples and explanations of how token issuance and distribution are implemented.
+Submission Guidelines:
+
+Submit your assignment by providing the source code and documentation.
+Share a link to your project repository or a ZIP file containing the code and documentation.
+Grading Rubric:
+
+Token Creation (20 points)
+Token Issuance (20 points)
+User Accounts (20 points)
+Token Distribution (30 points)
+Documentation and Instructions (10 points)

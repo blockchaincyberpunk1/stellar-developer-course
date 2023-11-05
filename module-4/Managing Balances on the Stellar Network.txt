@@ -1,0 +1,60 @@
+Managing Balances on the Stellar Network: A Guide for Beginner Developers
+
+Balances are at the core of any blockchain ecosystem, and the Stellar network is no exception. As a beginner Stellar developer, understanding how to query and update account balances is crucial for building applications that involve asset transfers, payments, and financial interactions. In this article, we will walk you through the process of managing balances on the Stellar network using the Stellar SDK. We'll cover querying balances, handling different assets, including the native XLM token, and provide you with a solid foundation for working with account balances.
+
+Understanding Balances in Stellar:
+
+In the Stellar network, an account can hold various types of assets, including the native Lumens (XLM) token and custom tokens issued on the network. Each asset is represented by its unique asset code and issuer public key. Balances are stored in the ledger and can be updated through transactions.
+
+Querying Account Balances:
+
+To query the balances of an account, you can use the Stellar SDK to connect to the Stellar Horizon server and retrieve the account details. The Horizon server provides a RESTful API for interacting with the Stellar network.
+
+Step-by-Step Guide to Querying Account Balances:
+
+Step 1: Set Up Your Development Environment:
+
+Before you start, ensure that you have Node.js and npm installed on your machine. You should also have the Stellar JavaScript SDK installed, which you can do by running the following command:
+
+bash
+Copy code
+npm install stellar-sdk
+Step 2: Query Account Balances:
+
+Here's an example of how you can query the balances of a specific account using the Stellar SDK:
+
+javascript
+Copy code
+const StellarSdk = require('stellar-sdk');
+
+// Configure the Stellar network (testnet)
+StellarSdk.Network.useTestNetwork();
+
+// Replace 'YOUR_PUBLIC_KEY' with the public key of the account you want to query
+const publicKey = 'YOUR_PUBLIC_KEY';
+
+// Connect to the Horizon server
+const server = new StellarSdk.Server('https://horizon-testnet.stellar.org');
+
+// Query account details
+server.loadAccount(publicKey)
+  .then(account => {
+    console.log('Account Balances:');
+    account.balances.forEach(balance => {
+      console.log(`${balance.asset_type}: ${balance.balance}`);
+    });
+  })
+  .catch(error => {
+    console.error('Error querying account balances:', error);
+  });
+Updating Account Balances:
+
+To update an account's balance, you need to create and submit a transaction to the network. The transaction will contain the necessary operations, such as payment or asset issuance, that modify the balances of the involved accounts.
+
+Handling Native XLM and Custom Tokens:
+
+Stellar supports two main types of assets: the native Lumens (XLM) token and custom tokens issued on the network. When querying and updating balances, you need to consider the asset type and handle it accordingly.
+
+Conclusion:
+
+Managing balances on the Stellar network is a fundamental skill for beginner developers. By querying and updating account balances, you can facilitate transactions, asset transfers, and various financial interactions within your applications. Leveraging the Stellar SDK, you can seamlessly work with native XLM and custom tokens, gaining a deep understanding of how balances are tracked and modified on the blockchain. As you continue to develop on the Stellar network, mastering these balance management techniques will empower you to create powerful and efficient financial applications that leverage the capabilities of the Stellar ecosystem.

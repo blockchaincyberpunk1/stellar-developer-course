@@ -1,0 +1,53 @@
+Advanced Stellar Application (Optional)
+
+Course: Stellar Developer Course
+
+Assignment Objective: This optional assignment is designed for advanced students with prior coding experience. It challenges them to work on a more complex Stellar application project, allowing them to deepen their understanding of Stellar's capabilities and develop advanced skills in blockchain application development.
+
+Instructions for Advanced Students:
+
+Assignment Task:
+
+Advanced Stellar Application Development
+
+In this optional assignment, you will have the opportunity to work on a more complex Stellar application project. You can choose one of the following advanced projects or propose your own Stellar-related project for approval by the instructor:
+
+Option 1: Decentralized Exchange (DEX) on Stellar (40 points):
+
+Develop a decentralized exchange (DEX) on the Stellar network where users can trade custom tokens.
+Implement order matching, order book management, and trading functions.
+Ensure secure and transparent trading operations.
+Document the DEX architecture, functionality, and code.
+Option 2: Atomic Swaps on Stellar (40 points):
+
+Create a Stellar-based application that allows users to perform atomic swaps between different tokens on the network.
+Implement the necessary smart contracts and user interfaces for atomic swaps.
+Ensure security and provide clear instructions for users.
+Document the atomic swap application, including code and usage instructions.
+Option 3: Multi-Signature Wallet Application (40 points):
+
+Build a multi-signature wallet application on Stellar.
+Allow users to create multi-signature accounts, add signers, and perform transactions requiring multiple signatures.
+Implement security features to protect user accounts.
+Document the multi-signature wallet application, including its features and code.
+Option 4: Proposed Project (Subject to Approval) (40 points):
+
+If you have a specific Stellar-related project idea, you can propose it to the instructor for approval.
+Your proposed project should be challenging and demonstrate your advanced understanding of Stellar development.
+Once approved, develop the project and document it thoroughly.
+Assignment Requirements:
+
+Choose one of the advanced project options (Option 1, 2, or 3) or propose your own (Option 4, subject to approval).
+
+Plan your project carefully, considering the architecture, features, and user experience.
+
+Develop the project using Stellar SDKs and any other relevant tools or libraries.
+
+Test the application thoroughly to ensure functionality and security.
+
+Provide comprehensive documentation for your project, including architecture diagrams, code explanations, and usage instructions.
+
+Submission Guidelines:
+
+Submit your assignment by providing the source code and detailed documentation for your advanced Stellar application.
+Share a link to your project repository or a ZIP file containing the code and documentation.

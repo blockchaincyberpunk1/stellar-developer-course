@@ -1,0 +1,44 @@
+Building a Stellar Dashboard (Optional)
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to provide an optional hands-on project for students with prior web development experience. Students will practice using Stellar's technology stack, including the Horizon API, JavaScript, and HTML/CSS, to build a simple web-based Stellar dashboard.
+
+Instructions for Students:
+
+Assignment Task:
+
+Creating a Stellar Dashboard
+
+In this optional assignment, you will have the opportunity to apply your knowledge of Stellar's technology stack to build a web-based Stellar dashboard. This project will allow you to interact with the Stellar network, retrieve real-time data from the Stellar testnet, and display it in a user-friendly interface.
+
+Assignment Requirements:
+
+Dashboard Design (20 points):
+
+Design a user-friendly dashboard interface using HTML/CSS. The design should be clear, visually appealing, and responsive (adapted for different screen sizes).
+Data Retrieval (30 points):
+
+Use JavaScript to interact with the Stellar Horizon API to retrieve real-time data from the Stellar testnet. You can choose to display data such as account information, account balances, transaction history, or other relevant information.
+Implement appropriate error handling in case API requests fail.
+Real-Time Updates (20 points):
+
+Implement a mechanism to periodically refresh and update the displayed data to reflect changes on the Stellar testnet. This should provide a real-time experience for dashboard users.
+User Interaction (20 points):
+
+Allow users to input relevant information, such as Stellar account addresses, to customize the data displayed on the dashboard.
+Implement user-friendly features like search, filtering, or sorting of data.
+Documentation and User Guide (10 points):
+
+Provide clear documentation on how to use the dashboard. Include instructions for users to navigate the interface, input data, and interpret the displayed information.
+Submission Guidelines:
+
+Submit the HTML, CSS, and JavaScript code files.
+Include a document (e.g., PDF) that provides an overview of the dashboard's design, functionality, and a user guide.
+Grading Rubric:
+
+Dashboard Design (20 points)
+Data Retrieval (30 points)
+Real-Time Updates (20 points)
+User Interaction (20 points)
+Documentation and User Guide (10 points)

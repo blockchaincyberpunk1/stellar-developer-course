@@ -1,0 +1,52 @@
+ Conditional Transactions (Smart Contracts)
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to conditional transactions in Stellar and smart contract implementation. Students will learn how to create conditional transactions based on specific criteria using Stellar's features.
+
+Instructions for Students:
+
+Assignment Task:
+
+Conditional Transactions (Smart Contracts)
+
+In this assignment, you will delve into the world of smart contracts on Stellar. Stellar's flexibility allows you to create conditional transactions based on specific criteria. These conditional transactions enable various use cases, from time-locked transactions to transactions based on specific account balances.
+
+Assignment Requirements:
+
+Smart Contract Scenario (20 points):
+
+You are tasked with implementing a simple smart contract scenario on the Stellar network.
+Select one of the following scenarios or propose your own if you have a specific idea in mind:
+Time-Locked Transaction: Create a smart contract where the funds in an account are locked and cannot be moved until a specific future date.
+Threshold Transaction: Implement a smart contract that requires multiple signers to approve a transaction, based on a predefined threshold (e.g., two out of three signers).
+Account Balance Condition: Create a smart contract that allows funds to be transferred from one account to another only when the source account's balance meets a specific condition (e.g., balance >= 100 XLM).
+Clearly define the rules and conditions of your chosen scenario.
+Smart Contract Implementation (60 points):
+
+Using Stellar's SDKs or Horizon API, implement the smart contract based on the scenario you selected.
+Write code that enforces the conditions and criteria specified in your scenario.
+Test the smart contract by executing transactions that meet or fail to meet the conditions.
+Document the code and transaction details.
+Transaction Documentation (10 points):
+
+Create a document summarizing the transactions you executed as part of testing the smart contract.
+Include the following for each transaction:
+Source and destination account public keys
+Transaction amount
+Transaction ID
+Any conditions or criteria that affected the transaction outcome
+Reflection (10 points):
+
+Reflect on your experience implementing a smart contract on Stellar.
+Discuss the advantages of using conditional transactions and how they can address real-world use cases.
+Submission Guidelines:
+
+Submit your assignment document (e.g., PDF) with the smart contract code, transaction details, explanations, and reflections.
+Include any code snippets, screenshots, or diagrams to enhance your documentation.
+Grading Rubric:
+
+Smart Contract Scenario (20 points)
+Smart Contract Implementation (60 points)
+Transaction Documentation (10 points)
+Reflection (10 points)

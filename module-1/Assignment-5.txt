@@ -1,0 +1,44 @@
+Stellar Use Case Analysis
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to deepen students' understanding of Stellar's real-world applications by analyzing its use in specific industries or use cases.
+
+Instructions for Students:
+
+Assignment Task:
+
+Stellar Use Case Analysis
+
+In this assignment, you will explore and analyze real-world use cases of the Stellar network. Stellar is designed to provide solutions to various industries and challenges, and understanding its practical applications is crucial for Stellar developers.
+
+Assignment Requirements:
+
+Use Case Selection (20 points):
+
+Choose a specific industry or use case where Stellar is actively being utilized. You can select from industries such as remittances, cross-border payments, tokenization, or any other industry where Stellar has made an impact.
+Stellar Features Analysis (30 points):
+
+Analyze how Stellar's features and capabilities address the challenges and requirements of the selected industry or use case.
+Explore Stellar's unique selling points, including its speed, low transaction costs, and security.
+Impact Assessment (30 points):
+
+Evaluate the impact of Stellar's presence in the chosen industry.
+Assess how Stellar has improved processes, reduced costs, or introduced innovative solutions.
+Consider the adoption and growth of Stellar-based applications in the industry.
+Presentation or Report (20 points):
+
+Prepare a presentation or a report outlining your analysis and findings.
+Use visuals, data, and examples to enhance your presentation/report.
+Ensure that your analysis is well-structured and easy to follow.
+Submission Guidelines:
+
+For presentations, submit your slides in a digital format (e.g., PowerPoint, PDF) through the course platform.
+For reports, submit your document in a digital format (e.g., PDF, Word document) through the course platform.
+Ensure that your presentation/report is clear, concise, and well-organized.
+Grading Rubric:
+
+Use Case Selection (20 points)
+Stellar Features Analysis (30 points)
+Impact Assessment (30 points)
+Presentation or Report (20 points)

@@ -1,0 +1,43 @@
+Setting Up Stellar Development Environment
+
+Course: Stellar Developer Course
+
+Assignment Objective: This assignment aims to ensure that students have a properly configured development environment for Stellar application development. It is essential for students to set up the necessary tools and resources to work effectively with Stellar's technology stack.
+
+Instructions for Students:
+
+Assignment Task:
+
+Setting Up Stellar Development Environment
+
+In this assignment, you will prepare your development environment to work with Stellar, including installing the necessary tools, configuring a testnet account, and getting everything ready for future Stellar application development.
+
+Assignment Requirements:
+
+Stellar SDKs Installation (30 points):
+
+Choose a programming language you are comfortable with (e.g., JavaScript, Python, Java, Go).
+Install the official Stellar SDK for your chosen programming language.
+Document the installation process, including any issues faced and solutions applied.
+Testnet Account Setup (40 points):
+
+Create a Stellar testnet account.
+Obtain test XLM (Stellar Lumens) from the Stellar testnet faucet.
+Document the process of setting up the testnet account and acquiring test XLM.
+Tool Configuration (20 points):
+
+Set up any additional tools or libraries you plan to use for Stellar development, such as Horizon or other relevant packages.
+Document the configuration steps for these tools.
+Challenges and Solutions (10 points):
+
+Describe any challenges you encountered during the setup process.
+Provide solutions or workarounds for these challenges.
+Submission Guidelines:
+
+Submit your assignment document (e.g., PDF) with detailed documentation of your environment setup, testnet account setup, tool configuration, and solutions to any challenges faced.
+Grading Rubric:
+
+Stellar SDKs Installation (30 points)
+Testnet Account Setup (40 points)
+Tool Configuration (20 points)
+Challenges and Solutions (10 points)

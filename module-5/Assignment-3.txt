@@ -1,0 +1,48 @@
+Tokenization Use Case
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with practical experience in tokenization as a use case for the Stellar network. Students will design and implement a real-world tokenization use case, tokenize an asset (e.g., real estate, art, stocks), and create a marketplace for trading these tokenized assets.
+
+Instructions:
+
+Assignment Task:
+
+Tokenization Use Case
+
+In this assignment, you will explore tokenization as a powerful use case for the Stellar network. Your task is to create a real-world tokenization use case, tokenize a physical or digital asset, and develop a marketplace for trading these tokenized assets. Tokenization allows you to represent real-world assets as digital tokens on the Stellar blockchain, making them more accessible and tradable.
+
+Assignment Requirements:
+
+Asset Selection (20 points):
+
+Choose a real-world asset that you want to tokenize. This could include real estate, artwork, stocks, or any other asset with value.
+Explain why you selected this asset and how tokenization can benefit it.
+Token Design and Creation (30 points):
+
+Design a digital token that represents the selected asset.
+Tokenize the asset on the Stellar network using Stellar's token creation features.
+Ensure that the tokenization process is secure and compliant with relevant regulations.
+Marketplace Development (30 points):
+
+Create a digital marketplace for trading the tokenized assets.
+Implement features such as asset listing, buying, selling, and price tracking.
+Design the marketplace interface to be user-friendly and intuitive.
+Smart Contracts (Optional - 10 points):
+
+For advanced students, consider implementing smart contracts to automate certain aspects of asset trading or compliance checks.
+Documentation (10 points):
+
+Provide detailed documentation that explains the tokenization process, including how to tokenize an asset and create a marketplace.
+Include a user guide for the marketplace, outlining how users can participate in trading tokenized assets.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the application code and documentation.
+Ensure that your documentation is comprehensive and accessible to others.
+Grading Rubric:
+
+Asset Selection (20 points)
+Token Design and Creation (30 points)
+Marketplace Development (30 points)
+Smart Contracts (Optional - 10 points)
+Documentation Quality (10 points)

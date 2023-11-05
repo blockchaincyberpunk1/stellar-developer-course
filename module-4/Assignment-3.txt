@@ -1,0 +1,53 @@
+Custom Token Creation
+
+Course: Stellar Developer Course
+
+Assignment Objective: This assignment aims to provide students with hands-on experience in creating custom tokens on the Stellar network. Students will learn how to define token properties, issue tokens to an account, and conduct token transfers.
+
+Instructions for Students:
+
+Assignment Task:
+
+Creating a Custom Token on the Stellar Network
+
+In this assignment, you will be tasked with creating a custom token on the Stellar testnet. Custom tokens can represent various assets, and you will define the token's properties such as its name, symbol, and the total supply.
+
+Assignment Requirements:
+
+Token Creation (30 points):
+
+Create a custom token on the Stellar testnet.
+Define the token's properties, including its name, symbol (e.g., XYZ), and the total supply (e.g., 1,000,000 tokens).
+Ensure that the token creation process adheres to Stellar's standards.
+Document the steps and code used for token creation.
+Token Issuance (20 points):
+
+Issue a specific number of tokens from the newly created token supply to a test account.
+Verify that the tokens are correctly issued to the account.
+Document the issuance process and any challenges faced.
+Token Transfers (30 points):
+
+Develop functionality for users to transfer the custom tokens between accounts.
+Ensure that token transfers are secure and accurately reflect changes in token ownership.
+Document how users can initiate token transfers using your application.
+User-Friendly Interface (10 points):
+
+Design a user-friendly interface for your token creation and transfer features.
+Ensure that users can easily navigate and understand how to create and transfer tokens.
+Include clear instructions for token-related actions.
+Documentation and Instructions (10 points):
+
+Provide clear and concise documentation for your token creation and transfer application.
+Include instructions for setting up and running the application locally.
+Offer examples of creating custom tokens and conducting token transfers.
+Submission Guidelines:
+
+Submit your assignment by providing the source code and documentation.
+Share a link to your project repository or a ZIP file containing the code and documentation.
+Grading Rubric:
+
+Token Creation (30 points)
+Token Issuance (20 points)
+Token Transfers (30 points)
+User-Friendly Interface (10 points)
+Documentation and Instructions (10 points)

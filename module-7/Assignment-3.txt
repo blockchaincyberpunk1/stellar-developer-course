@@ -1,0 +1,52 @@
+Micropayments Solution
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to build decentralized applications (DApps) that solve real-world problems using micropayments on the Stellar network. Students will design and implement a DApp that facilitates efficient micropayments for a specific use case (e.g., content monetization, pay-as-you-go services). The DApp should securely handle microtransactions and provide a user-friendly experience.
+
+Instructions:
+
+Assignment Task:
+
+Micropayments Solution DApp
+
+DApp Development (40 points):
+
+Develop a decentralized application (DApp) on the Stellar network that enables efficient micropayments for a specific use case.
+Choose a use case (e.g., content monetization, pay-as-you-go services) and design the DApp accordingly.
+Implement features that allow users to:
+Initiate micropayments for accessing content or services.
+Set up user accounts or profiles.
+Monitor their microtransaction history.
+Ensure that the DApp can handle frequent microtransactions with minimal fees.
+User Documentation (20 points):
+
+Create comprehensive user documentation or a user guide for your Micropayments Solution DApp.
+Explain how users can:
+Sign up or create accounts.
+Make micropayments.
+Access content or services through micropayments.
+Review their microtransaction history.
+Include clear instructions and screenshots to guide users through the process.
+Security Measures (20 points):
+
+Describe the security measures and best practices you've implemented to ensure the secure handling of microtransactions and user data.
+Explain how the DApp protects against unauthorized access and fraudulent activities.
+Testing and Validation (10 points):
+
+Thoroughly test your Micropayments Solution DApp to ensure that it functions correctly and securely.
+Provide a summary of the testing process and any challenges faced during testing.
+Presentation (Optional - 10 points):
+
+If required by the instructor, present your Micropayments Solution DApp to the class, highlighting its functionalities, security features, and testing results.
+Submission Guidelines:
+
+Submit the code and documentation for your Micropayments Solution DApp.
+If a presentation is required, follow the instructor's guidelines for the presentation.
+Grading Rubric:
+
+DApp Development (40 points)
+User Documentation (20 points)
+Security Measures (20 points)
+Testing and Validation (10 points)
+Presentation (Optional - 10 points)

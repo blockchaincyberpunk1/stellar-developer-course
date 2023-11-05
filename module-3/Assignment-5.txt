@@ -1,0 +1,45 @@
+Advanced Smart Contracts (Optional)
+
+Course: Stellar Developer Course
+
+Assignment Objective: This assignment is designed for advanced students who want to delve deeper into Stellar smart contract development. It challenges students to create a more complex smart contract scenario, such as an escrow service, where funds are held in escrow and released based on specific conditions.
+
+Instructions for Students:
+
+Assignment Task:
+
+Advanced Smart Contracts
+
+In this optional assignment, you will take your Stellar smart contract skills to the next level by implementing an advanced smart contract scenario. You will create a smart contract for an escrow service, where funds are held in escrow, and their release is governed by specific conditions.
+
+Assignment Requirements:
+
+Escrow Smart Contract Setup (30 points):
+
+Design a Stellar smart contract that functions as an escrow service.
+Define the conditions under which the escrowed funds will be released.
+Configure the smart contract to hold funds in escrow until these conditions are met.
+Document the setup, including the contract logic and conditions.
+User Interaction (40 points):
+
+Implement a user interface or interaction method that allows users to initiate an escrow transaction.
+Ensure that users can specify the conditions required for the release of funds, such as time-based conditions or external data triggers.
+Document the user interaction process and provide examples.
+Escrow Transaction Execution (20 points):
+
+Create a series of escrow transactions to test the smart contract under various conditions.
+Document the transaction details, including the source, destination, amount, transaction ID, and the conditions met for fund release.
+Advanced Features (10 points):
+
+Implement one or more advanced features to enhance your escrow smart contract. Examples include multi-signature requirements, time-locking, or automated condition checking.
+Document the advanced features you added and explain how they improve the contract.
+Submission Guidelines:
+
+Submit your assignment document (e.g., PDF) with the escrow smart contract setup, user interaction details, escrow transaction execution details, and explanations.
+Include any code snippets, screenshots, or diagrams to enhance your documentation.
+Grading Rubric:
+
+Escrow Smart Contract Setup (30 points)
+User Interaction (40 points)
+Escrow Transaction Execution (20 points)
+Advanced Features (10 points)

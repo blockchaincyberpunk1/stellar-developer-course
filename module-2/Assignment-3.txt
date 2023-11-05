@@ -1,0 +1,49 @@
+Horizon API Usage
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to the Stellar Horizon API and its capabilities, enabling them to interact with the Stellar network programmatically.
+
+Instructions for Students:
+
+Assignment Task:
+
+Exploring the Horizon API
+
+In this assignment, you will explore the Stellar Horizon API, which provides programmatic access to the Stellar network. By working with the Horizon API, you'll gain valuable experience in retrieving information from the Stellar network.
+
+Assignment Requirements:
+
+API Endpoint Selection (20 points):
+
+Explore the Stellar Horizon API documentation to get an overview of available endpoints and their functionalities.
+Choose a specific endpoint or functionality that interests you. It could be related to account details, transaction history, or any other aspect of the Stellar network.
+Justify your selection by explaining why you find this particular endpoint or functionality relevant or interesting.
+Programming Implementation (40 points):
+
+Select a programming language of your choice (e.g., Python, JavaScript).
+Implement a program that interacts with the Horizon API to retrieve information related to your chosen endpoint or functionality.
+Document the code clearly, including comments and explanations of how the API requests are constructed and how the responses are processed.
+API Interaction (30 points):
+
+Use your program to make API requests to the Stellar Horizon server.
+Demonstrate that your program successfully retrieves information from the Stellar network.
+Provide examples of API requests and the corresponding responses received.
+Data Presentation (10 points):
+
+Present the retrieved data in a clear and organized manner, such as displaying it in a structured format (e.g., JSON output) or using data visualization (if applicable).
+Reflection (10 points):
+
+Reflect on the experience of interacting with the Horizon API.
+Discuss the potential applications of the Horizon API in real-world Stellar projects and its significance in Stellar development.
+Submission Guidelines:
+
+Submit your programming code along with any relevant files.
+Include a document (e.g., PDF) containing your API endpoint choice, justification, code documentation, examples of API interactions, data presentation, and reflection.
+Grading Rubric:
+
+API Endpoint Selection (20 points)
+Programming Implementation (40 points)
+API Interaction (30 points)
+Data Presentation (10 points)
+Reflection (10 points)

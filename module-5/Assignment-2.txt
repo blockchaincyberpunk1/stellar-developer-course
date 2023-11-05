@@ -1,0 +1,49 @@
+Cross-Border Payment Solution
+
+Course: Stellar Developer Course
+
+Assignment Objective: The goal of this assignment is to provide students with hands-on experience in designing and building a practical cross-border payment solution using the Stellar network. Students will create a cross-border payment application that includes currency conversion, automatic routing, and real-time payment tracking.
+
+Instructions:
+
+Assignment Task:
+
+Cross-Border Payment Solution
+
+In this assignment, you will design and develop a cross-border payment application on the Stellar network. Your application should address the complexities of cross-border transactions, such as currency conversion, selecting the most cost-effective payment path, and providing real-time tracking of payment status. Consider factors like currency exchange rates and liquidity.
+
+Assignment Requirements:
+
+Currency Conversion (30 points):
+
+Implement a feature that allows users to initiate cross-border payments in their local currency.
+The application should automatically handle currency conversion to the destination currency using up-to-date exchange rates.
+Automatic Routing (30 points):
+
+Design a routing mechanism that identifies the most cost-effective path for cross-border payments.
+Consider factors like transaction fees and liquidity of the assets involved.
+Ensure that payments are routed efficiently while minimizing costs for users.
+Real-Time Tracking (20 points):
+
+Provide real-time tracking of payment status to users.
+Users should be able to view the progress of their cross-border payments, including confirmations and delivery status.
+User Interface (UI) Design (10 points):
+
+Create an intuitive and user-friendly interface for your cross-border payment application.
+The UI should facilitate payment initiation, currency selection, and payment tracking.
+Documentation (10 points):
+
+Provide comprehensive documentation that explains how to use your cross-border payment application.
+Include instructions for initiating payments, tracking payment status, and understanding the routing logic.
+Document any challenges you faced during development and how you overcame them.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the application code and documentation.
+Ensure that your documentation is clear and accessible.
+Grading Rubric:
+
+Currency Conversion (30 points)
+Automatic Routing (30 points)
+Real-Time Tracking (20 points)
+User Interface (UI) Design (10 points)
+Documentation Quality (10 points)

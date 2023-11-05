@@ -1,0 +1,47 @@
+Secure Key Management
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to reinforce secure key management practices for Stellar accounts. Students will develop a key management application for Stellar accounts, focusing on generating and securely storing key pairs, implementing multi-signature setups, and ensuring the safe signing of transactions. This assignment aims to enhance students' understanding of secure key management and its importance in blockchain development.
+
+Instructions:
+
+Assignment Task:
+
+Develop a Secure Key Management Application for Stellar Accounts
+
+Your task is to create a key management application for Stellar accounts that adheres to best practices for security. This application should encompass the following key aspects:
+
+Key Pair Generation (20 points):
+
+Develop a feature within your application that can securely generate Stellar key pairs.
+Implement strong cryptographic methods for key generation.
+Ensure that private keys are generated and stored securely.
+Multi-Signature Setup (20 points):
+
+Design and implement multi-signature setups for Stellar accounts. Multi-signature accounts require multiple signers to approve transactions.
+Configure and test multi-signature scenarios with different signer accounts.
+Transaction Signing (20 points):
+
+Enable the secure signing of transactions using the generated key pairs.
+Implement proper transaction signing procedures that include verification and authorization steps.
+Secure Key Storage (20 points):
+
+Address secure key storage by devising a method to store private keys safely.
+Discuss encryption and protection mechanisms used to safeguard private keys.
+Documentation (10 points):
+
+Provide clear documentation for your key management application.
+Explain how the application handles key generation, multi-signature setup, and transaction signing.
+Include instructions for users on how to use the application securely.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the application code and documentation.
+Ensure that your documentation is clear and provides sufficient information for others to understand and use your key management application securely.
+Grading Rubric:
+
+Key Pair Generation (20 points)
+Multi-Signature Setup (20 points)
+Transaction Signing (20 points)
+Secure Key Storage (20 points)
+Documentation Quality (10 points)

@@ -1,0 +1,54 @@
+Deployment and User Testing
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to prepare students for the real-world deployment and testing of their Stellar decentralized applications (DApps). Students will deploy either their asset tokenization DApp or micropayments solution on a testnet or live Stellar network. They will invite classmates to participate in user testing, collect valuable feedback, and document the deployment process for future reference.
+
+Instructions:
+
+Assignment Task:
+
+Deployment and User Testing
+
+Prepare for Deployment (20 points):
+
+Ensure that your asset tokenization DApp or micropayments solution is fully functional and has undergone thorough testing in your development environment.
+Select Deployment Environment (10 points):
+
+Choose whether you want to deploy your DApp on a Stellar testnet or on the live Stellar network.
+Clearly state your choice and provide a rationale for it.
+Deployment Documentation (20 points):
+
+Create detailed documentation outlining the steps and procedures for deploying your DApp to your chosen environment.
+Include all the necessary commands, configurations, and prerequisites.
+Specify any potential challenges or pitfalls that others should be aware of during deployment.
+User Testing (30 points):
+
+Invite your classmates or other participants to interact with your deployed DApp.
+Encourage users to perform various tasks within your DApp, such as tokenization, trading, or making micropayments.
+Collect feedback from users regarding their experience, including any issues encountered and suggestions for improvement.
+Feedback Collection (10 points):
+
+Organize and summarize the feedback received from user testing.
+Categorize the feedback into positive observations, areas for improvement, and critical issues.
+Iterative Development (10 points):
+
+Based on the user feedback, make necessary improvements or enhancements to your DApp.
+Document the changes you made to address the feedback.
+Reflection (10 points):
+
+Reflect on the deployment and user testing experience.
+Discuss any challenges you encountered during deployment and how you overcame them.
+Share insights gained from user feedback and how it influenced your DApp's development.
+Submission Guidelines:
+
+Submit your deployment documentation, user testing results, and reflection to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Preparation for Deployment (20 points)
+Selection of Deployment Environment (10 points)
+Deployment Documentation (20 points)
+User Testing (30 points)
+Feedback Collection (10 points)
+Iterative Development (10 points)
+Reflection (10 points)

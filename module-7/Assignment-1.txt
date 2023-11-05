@@ -1,0 +1,48 @@
+Stellar Anchor Simulation
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to the role of Stellar anchors in the Stellar network and educate them about compliance requirements. Students will create a simulation of a Stellar anchor, developing a simplified anchor application that issues tokens on the Stellar network, accepts deposits in fiat currency, and facilitates withdrawals. They will also consider and document their compliance procedures to ensure adherence to relevant financial regulations.
+
+Instructions:
+
+Assignment Task:
+
+Stellar Anchor Simulation
+
+Anchor Application Development (40 points):
+
+Develop a simplified Stellar anchor application that simulates the role of an anchor in the Stellar network.
+Your anchor application should include the following functionalities:
+Issuing custom tokens on the Stellar network.
+Accepting deposits in a specified fiat currency (e.g., USD or EUR).
+Facilitating withdrawals of the custom tokens or the deposited fiat currency.
+Managing user accounts and balances.
+Ensure that the application includes secure and efficient processes for handling deposits, withdrawals, and token issuance.
+Compliance Documentation (30 points):
+
+Research and document the compliance procedures and requirements that are relevant to your anchor simulation.
+Consider aspects such as Know Your Customer (KYC), Anti-Money Laundering (AML), and other financial regulations that anchors must comply with.
+Describe how your anchor application addresses compliance requirements and ensures that transactions are conducted in accordance with the law.
+User Guide (10 points):
+
+Create a user guide or documentation for your anchor application to explain how users can interact with the anchor.
+Include clear instructions on how to make deposits, withdraw funds, and use the issued tokens.
+Testing and Validation (10 points):
+
+Thoroughly test your anchor simulation application to ensure that it functions correctly and securely.
+Provide a summary of the testing process and any challenges faced during testing.
+Presentation (Optional - 10 points):
+
+If required by the instructor, present your anchor simulation to the class, explaining the functionalities, compliance measures, and testing results.
+Submission Guidelines:
+
+Submit the code and documentation for your Stellar anchor simulation application.
+If a presentation is required, follow the instructor's guidelines for the presentation.
+Grading Rubric:
+
+Anchor Application Development (40 points)
+Compliance Documentation (30 points)
+User Guide (10 points)
+Testing and Validation (10 points)
+Presentation (Optional - 10 points)

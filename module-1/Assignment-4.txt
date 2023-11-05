@@ -1,0 +1,44 @@
+Stellar Smart Contract Exploration
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to Stellar Smart Contracts (SSIs) and explore their basics, functionalities, and potential use cases.
+
+Instructions for Students:
+
+Assignment Task:
+
+Stellar Smart Contract Exploration
+
+In this assignment, you will delve into the world of Stellar Smart Contracts (SSIs). Stellar has its unique approach to smart contracts, and understanding how SSIs work and their potential applications is essential for Stellar developers.
+
+Assignment Requirements:
+
+SSI Basics Research (40 points):
+
+Begin by researching and exploring the fundamentals of Stellar Smart Contracts (SSIs).
+Understand how SSIs work, their scripting languages, and the execution environment.
+Find resources, documentation, or examples that illustrate the use of SSIs.
+SSI Use Cases (30 points):
+
+Investigate potential use cases for SSIs within the Stellar network.
+Identify scenarios where SSIs could provide value and enhance Stellar-based applications or processes.
+Provide concrete examples and explanations for each identified use case.
+Report (20 points):
+
+Write a brief report summarizing your findings and observations.
+Include details about the basics of SSIs, their functionalities, and real-world use cases.
+Your report should be well-structured and easy to understand.
+Reflection (10 points):
+
+Reflect on the significance of SSIs within the Stellar ecosystem and how they contribute to the development of decentralized applications on Stellar.
+Submission Guidelines:
+
+Submit your report in a digital format (e.g., PDF, Word document) through the course platform.
+Ensure that your report is clear, concise, and well-organized.
+Grading Rubric:
+
+SSI Basics Research (40 points)
+SSI Use Cases (30 points)
+Report (20 points)
+Reflection (10 points)

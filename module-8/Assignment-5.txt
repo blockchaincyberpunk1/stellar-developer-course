@@ -1,0 +1,37 @@
+Building a Stellar Community Resource
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to actively contribute to the Stellar community by creating and sharing a valuable educational resource. By developing content that helps developers or users better understand Stellar, students will promote knowledge sharing and enhance the community's understanding of the platform.
+
+Instructions:
+
+Assignment Task:
+
+Building a Stellar Community Resource
+
+Resource Creation (40 points):
+
+Instruct students to choose a topic or concept related to Stellar that they are passionate about and would like to share with the community. Examples include smart contract development, token creation, transaction processing, or any other aspect of Stellar.
+Students should create a high-quality educational resource on their chosen topic. This resource can take various forms, such as a tutorial, guide, video tutorial, infographics, or a series of blog posts.
+Encourage students to ensure that their resource is well-structured, easy to follow, and provides clear explanations or demonstrations.
+Publication and Sharing (20 points):
+
+Ask students to publish their community resource on a suitable platform that allows them to reach a broader audience. Examples include Medium, YouTube, personal blogs, or platforms like GitHub for code-related content.
+Instruct students to share their resource with the Stellar community through relevant channels, such as the Stellar community forum, social media (e.g., Twitter, Reddit), or developer-focused platforms.
+Engagement (20 points):
+
+Encourage students to actively engage with feedback and comments on their published resource. They should respond to questions, provide clarifications, and foster discussions related to their content.
+Remind students that community engagement is an essential part of building a valuable resource, as it allows them to address users' needs and concerns.
+Reflection (20 points):
+
+Require students to write a reflection on the experience of creating and sharing their community resource. They should discuss what they learned during the process, any challenges they encountered, and how they feel their contribution has benefited the Stellar community.
+Submission Guidelines:
+
+Students should submit the link to their published community resource and their reflection to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Resource Creation (40 points)
+Publication and Sharing (20 points)
+Engagement (20 points)
+Reflection (20 points)

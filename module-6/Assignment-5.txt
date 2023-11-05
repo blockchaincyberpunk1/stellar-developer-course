@@ -1,0 +1,55 @@
+Security Audit (Optional)
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to engage advanced students in a comprehensive security audit of a complex Stellar application. Students will conduct a thorough security audit of the application's code, identify potential vulnerabilities (e.g., smart contract vulnerabilities, transaction issues), and propose security enhancements. The goal is to provide students with hands-on experience in assessing the security of real-world applications and producing formal security audit reports.
+
+Instructions:
+
+Assignment Task:
+
+Comprehensive Security Audit
+
+Select an Application (10 points):
+
+Choose a complex Stellar application from the list provided by the instructor or propose your own application (subject to instructor approval).
+Ensure that the selected application involves Stellar smart contracts, transactions, or significant interaction with the Stellar network.
+Code Review (30 points):
+
+Obtain access to the codebase of the selected application.
+Conduct a comprehensive code review focusing on security aspects. Look for potential vulnerabilities, insecure coding practices, and areas that could be exploited by attackers.
+Vulnerability Assessment (30 points):
+
+Identify and document any security vulnerabilities you find in the code. This may include but is not limited to:
+Smart contract vulnerabilities.
+Transaction-related vulnerabilities.
+Authorization issues.
+Input validation problems.
+Potential attack vectors.
+Security Enhancements (20 points):
+
+Propose specific security enhancements and fixes for the identified vulnerabilities.
+Provide detailed recommendations and code changes that address the security issues.
+Formal Security Audit Report (10 points):
+
+Create a formal security audit report that includes:
+Executive summary.
+Detailed findings of vulnerabilities.
+Recommendations for security improvements.
+Code snippets or references to relevant sections of the code.
+Risk assessments for identified vulnerabilities.
+Presentation (Optional - 10 points):
+
+If required by the instructor, present your security audit findings and recommendations to the class.
+Submission Guidelines:
+
+Submit your comprehensive security audit report, including findings, recommendations, and any code changes proposed.
+If a presentation is required, follow the instructor's guidelines for the presentation.
+Grading Rubric:
+
+Selection of Application (10 points)
+Code Review (30 points)
+Vulnerability Assessment (30 points)
+Security Enhancements (20 points)
+Formal Security Audit Report (10 points)
+Presentation (Optional - 10 points)

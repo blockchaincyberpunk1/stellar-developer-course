@@ -1,0 +1,45 @@
+Stellar Account Setup
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to enable students to practice creating Stellar accounts and interacting with the Stellar network. Students will set up Stellar wallets, obtain test XLM from the testnet faucet, and perform basic transactions.
+
+Instructions for Students:
+
+Assignment Task:
+
+Stellar Account Setup
+
+In this assignment, you will gain hands-on experience in setting up Stellar accounts and conducting basic transactions on the Stellar network. This practical exercise is essential for understanding the foundational aspects of working with Stellar.
+
+Assignment Requirements:
+
+Stellar Account Creation (40 points):
+
+Follow the provided guide or instructions to create Stellar accounts in a development environment or testnet.
+Create at least two Stellar accounts. You can use a development environment or a Stellar testnet.
+Ensure that you securely store your account credentials, including your secret keys.
+Test XLM Acquisition (20 points):
+
+Obtain test XLM (Stellar Lumens) from the Stellar testnet faucet or the provided development environment.
+Each account should have a minimum balance of test XLM for transactions.
+Transaction Execution (30 points):
+
+Conduct basic transactions, such as:
+Sending XLM from one of your accounts to the other.
+Exploring the transaction details and the Stellar network's transaction history.
+Ensure that your transactions are executed successfully.
+Documentation (10 points):
+
+Document the entire process of setting up Stellar accounts, acquiring test XLM, and conducting transactions.
+Include screenshots or step-by-step descriptions of key actions taken.
+Submission Guidelines:
+
+Submit your documentation in a digital format (e.g., PDF, Word document) through the course platform.
+Ensure that your documentation is clear and well-organized.
+Grading Rubric:
+
+Stellar Account Creation (40 points)
+Test XLM Acquisition (20 points)
+Transaction Execution (30 points)
+Documentation (10 points)

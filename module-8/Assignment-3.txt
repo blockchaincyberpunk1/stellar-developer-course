@@ -1,0 +1,48 @@
+Contribution to an Open-source Stellar Project
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in contributing to the Stellar open-source ecosystem. By actively participating in an open-source project, students will gain practical experience, collaborate with the Stellar community, and make meaningful contributions to the project's development.
+
+Instructions:
+
+Assignment Task:
+
+Contribution to an Open-source Stellar Project
+
+Project Selection (10 points):
+
+Instruct students to explore the Stellar GitHub repository or other reputable sources to identify an open-source Stellar project that interests them.
+Emphasize the importance of choosing a project that aligns with their skills and interests.
+Contribution (40 points):
+
+Encourage students to make a meaningful contribution to the selected project. This contribution could include, but is not limited to:
+Submitting a pull request to fix a bug or add a new feature.
+Improving project documentation.
+Resolving issues reported by the community.
+Provide guidance on the contribution process, including how to fork the project, create a branch, make changes, and submit a pull request.
+Highlight the importance of following project-specific contribution guidelines and coding standards.
+Documentation (30 points):
+
+Require students to document their contribution process. The documentation should include:
+A detailed explanation of the issue or feature they worked on.
+Steps they followed to address the issue or implement the feature.
+Any challenges or obstacles they encountered and how they overcame them.
+The impact of their contribution on the project.
+Encourage students to provide clear, step-by-step instructions that could help others understand and replicate their work.
+Reflection (20 points):
+
+Ask students to reflect on their open-source contribution experience. They should consider questions like:
+What did they learn from this experience?
+How did their contribution benefit the open-source project and the Stellar community?
+Did they face any challenges, and how did they overcome them?
+How has this experience influenced their perception of open-source development?
+Submission Guidelines:
+
+Students should submit their contribution documentation, including the description of the issue or feature, the contribution process, and their reflections, to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Project Selection (10 points)
+Contribution (40 points)
+Documentation (30 points)
+Reflection (20 points)

@@ -1,0 +1,50 @@
+Asset Tokenization DApp
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to develop practical skills in building decentralized applications (DApps) on the Stellar network. Students will create a DApp on Stellar for asset tokenization, enabling users to tokenize real-world assets (e.g., real estate, stocks) and trade them on the Stellar network. This assignment emphasizes the implementation of secure practices for handling asset ownership and provides hands-on experience with DApp development.
+
+Instructions:
+
+Assignment Task:
+
+Asset Tokenization DApp
+
+DApp Development (40 points):
+
+Develop a decentralized application (DApp) on the Stellar network that facilitates the tokenization of real-world assets.
+Your DApp should allow users to:
+Create and issue custom tokens representing real-world assets (e.g., real estate tokens, stock tokens).
+List these tokens on a marketplace or exchange within the DApp.
+Trade tokens with other users.
+Implement secure practices for handling asset ownership, ensuring that tokenized assets are associated with the rightful owners.
+User Documentation (20 points):
+
+Create comprehensive user documentation or a user guide for your Asset Tokenization DApp.
+Explain how users can:
+Tokenize real-world assets using the DApp.
+List tokens for trading.
+Trade tokens with other users.
+Include clear instructions and screenshots to guide users through the process.
+Security Measures (20 points):
+
+Describe the security measures and best practices you've implemented to ensure the secure handling of asset ownership and transactions.
+Explain how the DApp protects against unauthorized access and fraudulent activities.
+Testing and Validation (10 points):
+
+Thoroughly test your Asset Tokenization DApp to ensure that it functions correctly and securely.
+Provide a summary of the testing process and any challenges faced during testing.
+Presentation (Optional - 10 points):
+
+If required by the instructor, present your Asset Tokenization DApp to the class, highlighting its functionalities, security features, and testing results.
+Submission Guidelines:
+
+Submit the code and documentation for your Asset Tokenization DApp.
+If a presentation is required, follow the instructor's guidelines for the presentation.
+Grading Rubric:
+
+DApp Development (40 points)
+User Documentation (20 points)
+Security Measures (20 points)
+Testing and Validation (10 points)
+Presentation (Optional - 10 points)

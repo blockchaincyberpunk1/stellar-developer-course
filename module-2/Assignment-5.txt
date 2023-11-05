@@ -1,0 +1,44 @@
+ Stellar Testnet Transaction
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to reinforce students' understanding of Stellar's technology stack by providing hands-on experience with transactions on the Stellar testnet. Students will create and document a transaction involving the transfer of XLM from one test account to another using the Horizon API.
+
+Instructions for Students:
+
+Assignment Task:
+
+Creating a Stellar Testnet Transaction
+
+In this assignment, you will practice creating a transaction on the Stellar testnet. This hands-on experience will help you gain practical knowledge of how transactions work in the Stellar network.
+
+Assignment Requirements:
+
+Testnet Account Setup (10 points):
+
+Ensure you have set up Stellar testnet accounts. If you haven't done so, refer to the course material or resources on how to create test accounts.
+Transaction Creation (40 points):
+
+Use the Stellar Horizon API to create a transaction that transfers a small amount of XLM (Stellar Lumens) from one of your test accounts to another test account. You can choose the source and destination accounts.
+Include any additional transaction details you wish, such as memos or additional operations, to enrich your learning experience.
+Transaction Submission (20 points):
+
+Submit the transaction to the Stellar testnet using the Horizon API. Ensure that the transaction is properly signed and submitted.
+Transaction Documentation (30 points):
+
+Document the transaction details, including:
+Source account address
+Destination account address
+Transaction ID
+Amount of XLM transferred
+Memos (if any)
+Any other relevant details
+Submission Guidelines:
+
+Submit a document (e.g., PDF) that includes the transaction details and the steps you followed to create and submit the transaction.
+Grading Rubric:
+
+Testnet Account Setup (10 points)
+Transaction Creation (40 points)
+Transaction Submission (20 points)
+Transaction Documentation (30 points)

@@ -1,0 +1,45 @@
+Stellar Transaction Types
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to help students gain a comprehensive understanding of the various transaction types supported by the Stellar network. Students will explore and explain different transaction types, their purposes, and how to construct and submit them using Stellar's SDKs or tools.
+
+Instructions for Students:
+
+Assignment Task:
+
+Exploring Stellar Transaction Types
+
+In this assignment, you will delve into the different transaction types supported by the Stellar network. Stellar offers a variety of transaction types, each serving a specific purpose. Understanding these transaction types is crucial for building applications on Stellar.
+
+Assignment Requirements:
+
+Transaction Types Research (40 points):
+
+Research and explore the following Stellar transaction types:
+Payment Transactions
+Account Creation Transactions
+Trustline Transactions
+Path Payment Transactions
+Manage Data Transactions
+Bump Sequence Transactions (Optional)
+For each transaction type, provide a clear explanation of its purpose and use cases. Explain when and why a developer might want to use this type of transaction in their Stellar-based application.
+Transaction Construction (30 points):
+
+For each transaction type, provide code examples or step-by-step instructions on how to construct and submit the transaction using Stellar's SDKs or tools. Include any necessary libraries or dependencies.
+Real-World Examples (20 points):
+
+Provide real-world examples or scenarios where each transaction type might be employed. Explain how these transaction types play a role in actual Stellar-based applications.
+Documentation Clarity (10 points):
+
+Ensure that your document or presentation is well-structured, clear, and easy to follow.
+Submission Guidelines:
+
+You can submit this assignment as a document (e.g., PDF) or a presentation (e.g., PowerPoint, Google Slides).
+Include code snippets, screenshots, or diagrams to enhance your explanations.
+Grading Rubric:
+
+Transaction Types Research (40 points)
+Transaction Construction (30 points)
+Real-World Examples (20 points)
+Documentation Clarity (10 points)

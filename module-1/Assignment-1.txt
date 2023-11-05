@@ -1,0 +1,47 @@
+Blockchain Overview Essay
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to assess students' understanding of fundamental blockchain concepts. By writing an essay on blockchain technology, students will demonstrate their knowledge of core principles and gain a solid foundation for their Stellar development journey.
+
+Instructions for Students:
+
+Assignment Task:
+
+Blockchain Overview Essay
+
+In this assignment, you will have the opportunity to explore and explain the core principles of blockchain technology. As a Stellar Developer, understanding the fundamental concepts of blockchain is crucial. This assignment will help you build a strong foundation in blockchain technology.
+
+Assignment Requirements:
+
+Essay Content (60 points):
+
+Write an essay that explains the core principles and components of blockchain technology.
+Define key blockchain terms, including but not limited to:
+Decentralization
+Distributed ledger
+Consensus mechanism
+Discuss the significance of blockchain in various industries such as finance, supply chain, healthcare, and more.
+Provide real-world examples of how blockchain is being utilized.
+Clarity and Structure (20 points):
+
+Ensure that your essay is well-structured and organized.
+Use clear and concise language to explain complex concepts.
+Maintain a logical flow of ideas throughout the essay.
+Originality (10 points):
+
+Ensure that your essay reflects your own understanding of blockchain concepts.
+Avoid plagiarism by citing sources if you use external references.
+Length and Formatting (10 points):
+
+The essay should be a minimum of 800 words and a maximum of 1,200 words.
+Follow proper formatting guidelines for essays, including citations if applicable.
+Submission Guidelines:
+
+Submit your essay in a digital format (e.g., PDF, Word document) through the course platform.
+Grading Rubric:
+
+Essay Content (60 points)
+Clarity and Structure (20 points)
+Originality (10 points)
+Length and Formatting (10 points)

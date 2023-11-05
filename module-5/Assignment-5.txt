@@ -1,0 +1,46 @@
+Advanced Stellar Smart Contracts (Optional)
+
+Course: Stellar Developer Course
+
+Assignment Objective: This optional assignment is designed to challenge advanced students with extensive coding skills. The objective is to create complex smart contracts on the Stellar network, focusing on advanced features such as conditional payments, escrow services, or decentralized applications (dApps) with intricate transaction logic. This assignment will test the students' ability to design, code, test, and document advanced Stellar smart contracts.
+
+Instructions:
+
+Assignment Task:
+
+Advanced Stellar Smart Contracts
+
+For students with advanced coding skills, this assignment offers an opportunity to work on complex smart contracts on the Stellar network. You will be tasked with creating advanced smart contracts that leverage Stellar's capabilities for conditional payments, escrow services, or the development of decentralized applications (dApps) with intricate transaction logic. Your task is to design, code, test, and document your advanced smart contract.
+
+Assignment Requirements:
+
+Project Selection (15 points):
+
+Choose an advanced smart contract project that interests you. It could involve conditional payments, escrow services, or a complex dApp with multiple transaction scenarios.
+Provide a clear project description outlining what your smart contract will achieve and its real-world use case.
+Smart Contract Design (20 points):
+
+Design your advanced smart contract. Include details such as the contract's structure, the conditions for execution, and how it interacts with Stellar accounts or assets.
+Smart Contract Implementation (30 points):
+
+Code your smart contract on the Stellar network, ensuring that it operates as intended.
+Test the smart contract thoroughly to ensure it behaves correctly in various scenarios.
+Documentation (20 points):
+
+Create comprehensive documentation that explains the purpose, design, and operation of your advanced smart contract.
+Include usage instructions and real-world use cases where applicable.
+Presentation (15 points):
+
+Prepare a presentation or demonstration of your advanced smart contract. Showcase its functionality and describe how it addresses the selected use case.
+Be prepared to answer questions and discuss your project during a presentation or demo.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the application code and documentation.
+Ensure that your documentation is clear and provides sufficient information for others to understand and use your smart contract.
+Grading Rubric:
+
+Project Selection (15 points)
+Smart Contract Design (20 points)
+Smart Contract Implementation (30 points)
+Documentation Quality (20 points)
+Presentation (15 points)

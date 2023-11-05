@@ -1,0 +1,42 @@
+Code Quality Review
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to emphasize code quality and peer review. Students will exchange their Stellar application code with a peer and review each other's code for code quality, security vulnerabilities, and adherence to best practices. The goal is to provide constructive feedback, suggest improvements, and document the review process.
+
+Instructions:
+
+Assignment Task:
+
+Peer Code Quality Review
+
+Code Exchange (10 points):
+
+Pair up with a peer in the course.
+Exchange your Stellar application code with your peer. Make sure to provide clear instructions on how to set up and run your application.
+Code Review (40 points):
+
+Review your peer's code thoroughly, focusing on aspects such as code quality, readability, and adherence to best practices.
+Pay special attention to security vulnerabilities or potential risks in the code.
+Feedback and Suggestions (30 points):
+
+Provide detailed feedback to your peer. Point out specific areas where improvements can be made.
+Suggest code changes or enhancements that could improve code quality, security, or performance.
+Documentation (10 points):
+
+Document the code review process. Describe the criteria you used for evaluating the code.
+Include a summary of your findings, highlighting both positive aspects and areas that need improvement.
+Discussion (10 points):
+
+Arrange a discussion with your peer to go over the feedback you provided and any questions or clarifications they may have.
+Submission Guidelines:
+
+Submit your assignment by sharing a summary of your code review feedback and the documentation of the review process.
+Encourage students to engage in a discussion with their peer to ensure that the feedback is well-understood.
+Grading Rubric:
+
+Code Exchange (10 points)
+Code Review (40 points)
+Feedback and Suggestions (30 points)
+Documentation (10 points)
+Discussion (10 points)

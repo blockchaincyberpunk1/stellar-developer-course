@@ -1,0 +1,53 @@
+Basic Stellar Application
+
+Course: Stellar Developer Course
+
+Assignment Objective: This assignment is designed to help students build a fundamental Stellar application that enables users to create Stellar accounts, manage XLM balances, check balances, send XLM to other accounts, and view transaction history. It provides hands-on experience with Stellar's basic functionalities.
+
+Instructions for Students:
+
+Assignment Task:
+
+Developing a Basic Stellar Application
+
+In this assignment, you will create a simple Stellar application that allows users to interact with the Stellar network by creating accounts, managing XLM balances, checking balances, sending XLM to other accounts, and viewing transaction history.
+
+Assignment Requirements:
+
+Account Creation (20 points):
+
+Implement a feature that allows users to create Stellar accounts.
+Ensure that each user has a unique Stellar account address.
+Document how users can create accounts using your application.
+Balance Management (20 points):
+
+Implement functionality for users to check their XLM balances.
+Allow users to send XLM to other accounts.
+Ensure that balance changes are reflected accurately.
+Document how users can check their balances and send XLM.
+Transaction History (20 points):
+
+Provide a way for users to view their transaction history.
+Include details such as transaction IDs, timestamps, and involved accounts.
+Document how users can access their transaction history.
+User-Friendly Interface (20 points):
+
+Design a user-friendly interface for your Stellar application.
+Ensure that users can easily navigate and perform actions.
+Include clear instructions for using the application.
+Documentation and Instructions (20 points):
+
+Create clear and concise documentation for your Stellar application.
+Include instructions for setting up and running the application locally.
+Provide examples of using each feature.
+Submission Guidelines:
+
+Submit your assignment by providing the source code and documentation.
+Share a link to your project repository or a ZIP file containing the code and documentation.
+Grading Rubric:
+
+Account Creation (20 points)
+Balance Management (20 points)
+Transaction History (20 points)
+User-Friendly Interface (20 points)
+Documentation and Instructions (20 points)

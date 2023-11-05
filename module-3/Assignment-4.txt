@@ -1,0 +1,45 @@
+Multi-Signature Transactions
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to multi-signature transactions on the Stellar network. Students will practice creating multi-signature accounts, configuring required signers, and executing multi-signature transactions.
+
+Instructions for Students:
+
+Assignment Task:
+
+Multi-Signature Transactions
+
+Multi-signature transactions add an extra layer of security to Stellar accounts. In this assignment, you will explore how to create and use multi-signature accounts on the Stellar network.
+
+Assignment Requirements:
+
+Multi-Signature Account Setup (30 points):
+
+Set up a multi-signature account on the Stellar testnet.
+Configure the required number of signers and thresholds for the multi-signature account. For example, you might require 2 out of 3 signers to approve a transaction.
+Document the steps and configurations involved in setting up the multi-signature account.
+Signing Accounts (40 points):
+
+Create multiple Stellar testnet accounts that will act as signers for the multi-signature account.
+Add these signing accounts as signers to the multi-signature account.
+Document the public keys of these signing accounts.
+Multi-Signature Transaction Execution (20 points):
+
+Create and execute multi-signature transactions using the multi-signature account.
+Test scenarios where transactions are approved or rejected based on the threshold requirements.
+Document the transaction details, including the source, destination, amount, transaction ID, and the signers involved.
+Documentation (10 points):
+
+Prepare a document that summarizes the multi-signature account setup, signing account details, and transaction execution.
+Include any code snippets or commands used during the process.
+Submission Guidelines:
+
+Submit your assignment document (e.g., PDF) with the multi-signature account setup, signing account details, transaction execution details, and explanations.
+Include any code snippets, screenshots, or diagrams to enhance your documentation.
+Grading Rubric:
+
+Multi-Signature Account Setup (30 points)
+Signing Accounts (40 points)
+Multi-Signature Transaction Execution (20 points)
+Documentation (10 points)

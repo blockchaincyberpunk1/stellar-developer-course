@@ -1,0 +1,46 @@
+Transaction Validation and Security
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to ensure that students understand transaction validation and security on the Stellar network. Students will be tasked with building a transaction validation service for Stellar. This service will focus on verifying the authenticity and correctness of incoming transactions by checking signatures and validating transactions against the Stellar network's rules. Students should also document the security measures implemented to prevent unauthorized transactions.
+
+Instructions:
+
+Assignment Task:
+
+Build a Transaction Validation Service for Stellar
+
+Your task is to create a transaction validation service for the Stellar network. This service should perform the following key functions:
+
+Transaction Verification (30 points):
+
+Develop a service that receives incoming transactions.
+Implement validation checks to ensure the authenticity and correctness of these transactions.
+Signature Verification (20 points):
+
+Verify the signatures on incoming transactions to confirm that they are signed by the authorized accounts.
+Implement strong cryptographic methods for signature verification.
+Stellar Network Rules (20 points):
+
+Validate transactions against the rules and requirements of the Stellar network.
+Ensure that transactions adhere to network guidelines and constraints.
+Security Measures (20 points):
+
+Document the security measures and protocols you've implemented to prevent unauthorized transactions and protect the service from security threats.
+Discuss potential vulnerabilities and how your service mitigates them.
+Documentation (10 points):
+
+Provide comprehensive documentation for your transaction validation service.
+Explain how the service works, including the verification and validation processes.
+Describe the security measures in place and how they contribute to the overall security of the service.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the service code and documentation.
+Ensure that your documentation is clear and provides sufficient information for others to understand and use your transaction validation service securely.
+Grading Rubric:
+
+Transaction Verification (30 points)
+Signature Verification (20 points)
+Stellar Network Rules (20 points)
+Security Measures (20 points)
+Documentation Quality (10 points)

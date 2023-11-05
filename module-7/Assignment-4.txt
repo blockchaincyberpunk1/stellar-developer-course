@@ -1,0 +1,43 @@
+Regulatory Compliance Review
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to ensure that students understand the importance of regulatory compliance in Stellar development. Students will review and evaluate the compliance procedures and practices implemented in their peers' anchor simulations or asset tokenization decentralized applications (DApps). This assignment promotes awareness of regulatory considerations in blockchain development.
+
+Instructions:
+
+Assignment Task:
+
+Regulatory Compliance Review
+
+Select a Peer's Project (10 points):
+
+Each student will select one of their peers' projects, either an Anchor Simulation or an Asset Tokenization DApp, for review.
+You are encouraged to choose a project that you did not directly work on.
+Review Compliance Procedures (30 points):
+
+Carefully review the compliance procedures and practices outlined in your chosen peer's project documentation.
+Pay special attention to how the project addresses regulatory requirements, such as Know Your Customer (KYC) procedures, Anti-Money Laundering (AML) measures, and any other relevant regulations based on the project's use case.
+Compliance Evaluation (40 points):
+
+Evaluate the effectiveness and completeness of the compliance procedures in the project.
+Provide feedback on whether the project's compliance measures align with industry best practices and regulatory requirements.
+Suggest improvements or enhancements to address any compliance gaps or potential risks.
+Documentation Review (10 points):
+
+Assess the clarity and comprehensiveness of the compliance documentation within the project.
+Determine if the documentation effectively communicates how compliance procedures are implemented and executed.
+Report and Recommendations (10 points):
+
+Prepare a report summarizing your compliance review of the chosen peer's project.
+Include specific feedback, suggestions for improvements, and recommendations for enhancing regulatory compliance.
+Submission Guidelines:
+
+Submit your compliance review report to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Selection of Peer's Project (10 points)
+Review of Compliance Procedures (30 points)
+Compliance Evaluation (40 points)
+Documentation Review (10 points)
+Report and Recommendations (10 points)

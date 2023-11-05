@@ -1,0 +1,50 @@
+Sending Stellar Payments
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in creating and submitting Stellar payment transactions. Students will set up Stellar testnet accounts, send XLM or other assets, and document transaction details using Stellar SDKs or the Horizon API.
+
+Instructions for Students:
+
+Assignment Task:
+
+Sending Stellar Payments
+
+In this assignment, you will gain practical experience in creating and submitting Stellar payment transactions. Stellar's ability to facilitate fast and low-cost transactions makes it an ideal platform for cross-border payments and asset transfers. By completing this assignment, you will become proficient in executing payments on the Stellar network.
+
+Assignment Requirements:
+
+Account Setup (10 points):
+
+Set up two Stellar testnet accounts: a sender account and a receiver account. Document the public keys of both accounts.
+Payment Transactions (60 points):
+
+Perform a series of payment transactions from the sender account to the receiver account using Stellar's SDKs or the Horizon API.
+Send XLM or other assets (if available) in different transaction amounts.
+Explore and document the following optional features if desired:
+Memos: Include memos in your transactions to attach additional information or messages.
+Time-bound Transactions: Experiment with time-bound transactions, where the transaction becomes invalid after a specific time.
+Additional Transaction Fields: Explore any other fields or features of Stellar payment transactions you find interesting.
+Transaction Documentation (20 points):
+
+Create a detailed document or report summarizing your payment transactions.
+Include the following for each transaction:
+Source and destination account public keys
+Transaction amount
+Transaction ID
+Memo content (if used)
+Any additional features explored
+Add explanations and comments to describe each transaction and any challenges encountered.
+Reflection (10 points):
+
+Reflect on your experience working with Stellar payment transactions. Discuss the advantages and potential use cases of Stellar payments based on your experience.
+Submission Guidelines:
+
+Submit your assignment document (e.g., PDF) with all the required transaction details, explanations, and reflections.
+Include any code snippets, screenshots, or diagrams to enhance your documentation.
+Grading Rubric:
+
+Account Setup (10 points)
+Payment Transactions (60 points)
+Transaction Documentation (20 points)
+Reflection (10 points)

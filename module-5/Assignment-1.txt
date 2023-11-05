@@ -1,0 +1,49 @@
+Multi-Signature Wallet Implementation
+
+Course: Stellar Developer Course
+
+Assignment Objective: The purpose of this assignment is to help students gain a practical understanding of multi-signature transactions on the Stellar network. Students will implement a multi-signature wallet application using Stellar's capabilities, allowing users to create and interact with multi-signature accounts.
+
+Instructions:
+
+Assignment Task:
+
+Multi-Signature Wallet Implementation
+
+In this assignment, you will create a multi-signature wallet application using the Stellar network. Multi-signature wallets enhance security by requiring multiple authorized signers to approve transactions. Your application should allow users to set up multi-signature accounts and perform transactions that require multiple signers.
+
+Assignment Requirements:
+
+User Registration and Account Creation (20 points):
+
+Develop a user-friendly registration and account creation process.
+Users should be able to sign up for your application and create a new Stellar account that supports multi-signature functionality.
+Multi-Signature Account Setup (30 points):
+
+Implement a feature that enables users to create multi-signature accounts.
+Allow users to specify the required number of signers and add trusted signers (other users) to the account.
+Transaction Execution (40 points):
+
+Implement the ability to create transactions that require multiple signers' approval.
+Users should be able to initiate transactions and specify the necessary signers.
+Ensure that transactions are not executed until all required signers have approved.
+User Interface (UI) Design (10 points):
+
+Create an intuitive and user-friendly interface for your multi-signature wallet application.
+The UI should facilitate account creation, multi-signature account setup, and transaction initiation.
+Documentation (20 points):
+
+Provide comprehensive documentation that explains how to use your multi-signature wallet application.
+Include instructions for account creation, multi-signature account setup, and transaction execution.
+Document any challenges you faced during development and how you overcame them.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the application code and documentation.
+Ensure that your documentation is clear and accessible.
+Grading Rubric:
+
+User Registration and Account Creation (20 points)
+Multi-Signature Account Setup (30 points)
+Transaction Execution (40 points)
+User Interface (UI) Design (10 points)
+Documentation Quality (20 points)

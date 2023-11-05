@@ -1,0 +1,41 @@
+Stellar Anchor Service
+
+Course: Stellar Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in operating as a Stellar anchor. Students will set up a Stellar anchor service, facilitate the transfer of non-native assets (e.g., fiat currencies or other cryptocurrencies) onto the Stellar network, and handle deposits and withdrawals.
+
+Instructions:
+
+Assignment Task:
+
+Stellar Anchor Service
+
+In this assignment, you will operate as a Stellar anchor service. Anchors are entities that bridge the gap between traditional financial systems and the Stellar network by facilitating the issuance and redemption of assets on the Stellar blockchain. Your task is to set up a Stellar anchor service, create accounts for users, issue tokens representing non-native assets, and manage the deposit and withdrawal process.
+
+Assignment Requirements:
+
+Anchor Service Setup (20 points):
+
+Set up a Stellar anchor service in a testnet environment.
+Choose a non-native asset (e.g., a fiat currency or another cryptocurrency) that you want to issue on the Stellar network.
+Explain why you selected this asset and how it can benefit from being tokenized on Stellar.
+User Accounts (20 points):
+
+Create user accounts on the Stellar network.
+Document the process of onboarding users and generating Stellar accounts for them.
+Token Issuance (30 points):
+
+Issue tokens on the Stellar network that represent the selected non-native asset.
+Ensure that the token issuance process is secure and compliant with relevant regulations.
+Deposits and Withdrawals (30 points):
+
+Implement deposit and withdrawal procedures for users.
+Describe how users can deposit the non-native asset to receive the corresponding tokens and how they can withdraw tokens to obtain the non-native asset.
+Documentation (10 points):
+
+Provide comprehensive documentation that explains the anchor service setup, token issuance, and deposit/withdrawal processes.
+Include instructions for users on how to interact with your anchor service.
+Submission Guidelines:
+
+Submit your assignment by sharing a link to your project repository or a ZIP file containing the application code and documentation.
+Ensure that your documentation is clear and informative.
